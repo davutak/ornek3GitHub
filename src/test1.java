@@ -21,5 +21,9 @@ public class test1 {
         System.out.println("Kaynak");
     }
 
+    public static void Cakisma_Calismasi_Kaynak2 (){
+
+        System.out.println("Kaynak");
+    }
 
 }
