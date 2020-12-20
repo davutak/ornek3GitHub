@@ -3,6 +3,9 @@ public class test1 {
         System.out.println("1.islem");
         System.out.println("2.islem");
     }
+    public static void Deli_Bir_Method() {
+        System.out.println("Süpermethod Calistir Bakalim Tamam");
+    }
 
     public static void yeniMetodSepe() {
         System.out.println("Sepet Kismi Tamam");
