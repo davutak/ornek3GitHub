@@ -26,4 +26,8 @@ public class test1 {
         System.out.println("Kaynak");
     }
 
+    public static void Ogretmen_Method (){
+
+        System.out.println("Kaynak");
+    }
 }
