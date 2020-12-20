@@ -16,6 +16,10 @@ public class test1 {
     public static void Personel_Ekle() {
         System.out.println("Personel Ekle islemi");
     }
+    public static void Cakisma_Calismasi_Kaynak (){
+
+        System.out.println("Kaynak");
+    }
 
 
 }
