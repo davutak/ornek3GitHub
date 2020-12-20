@@ -13,4 +13,9 @@ public class test1 {
     public static void Sepetten_Sil() {
         System.out.println("Sepet Silme islemi");
     }
+    public static void Personel_Ekle() {
+        System.out.println("Personel Ekle islemi");
+    }
+
+
 }
